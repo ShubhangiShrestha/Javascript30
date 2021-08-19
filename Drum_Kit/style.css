@@ -48,6 +48,7 @@ html {
   }
   .sound {
     font-size: 1.2rem;
+    font-family: Cursive;
     text-transform: uppercase;
     letter-spacing: .1rem;
     color: #ffc600;
